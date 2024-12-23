@@ -26,6 +26,8 @@ public class Principal {
 		// Instancia de clase para tener acceso a los metodos de LogicaMetodos
 		LogicaMetodos imp = new LogicaMetodos();
 		System.out.println("Se modifico el nuevo modulo");
+		
+		System.out.println("Trabajando en la segunda Variable");
 
 		do {
 
